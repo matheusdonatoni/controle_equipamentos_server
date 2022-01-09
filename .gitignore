@@ -1,0 +1,5 @@
+node_modules
+uploads
+src/config/auth.json
+src/config/database.js
+.env
